@@ -1,7 +1,9 @@
 import { Navbar } from "@/components/Navbar";
 import { Hero } from "@/components/Hero";
 import { About } from "@/components/About";
+import { TechArsenal } from "@/components/TechArsenal";
 import { Projects } from "@/components/Projects";
+import { YouTubeFeed } from "@/components/YouTubeFeed";
 import { Contact, Footer } from "@/components/Contact";
 
 export default function Home() {
@@ -10,7 +12,9 @@ export default function Home() {
       <Navbar />
       <Hero />
       <About />
+      <TechArsenal />
       <Projects />
+      <YouTubeFeed />
       <Contact />
       <Footer />
     </main>
