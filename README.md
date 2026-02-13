@@ -1,4 +1,4 @@
-# Orchids ESCA Byte Portfolio
+#ESCA Byte Portfolio
 
 A personal portfolio built with Next.js and TypeScript showcasing projects, skills, and a YouTube feed. Clean, component-driven layout using the Next.js App Router.
 
@@ -67,3 +67,4 @@ Deploy to Vercel for best compatibility with Next.js, or use any platform that s
 
 If you want, I can also add a `LICENSE` file, create a short demo GIF, or prepare a `git`/GitHub push script. Which would you like next?
 #
+
