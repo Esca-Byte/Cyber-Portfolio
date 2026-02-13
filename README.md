@@ -58,13 +58,5 @@ Deploy to Vercel for best compatibility with Next.js, or use any platform that s
 - Feel free to open issues or pull requests.
 - Keep changes focused and add a short description to each PR.
 
-## Next steps you might want
 
-- Add a `LICENSE` file (MIT recommended) before publishing.
-- Add a README screenshot or demo GIF in the repo root for visual appeal.
-
----
-
-If you want, I can also add a `LICENSE` file, create a short demo GIF, or prepare a `git`/GitHub push script. Which would you like next?
-#
 
